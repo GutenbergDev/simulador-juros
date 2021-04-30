@@ -101,7 +101,7 @@ nav ul a:hover {
   flex-direction: column;
 }
 
-input[type="text"] {
+input[type="number"] {
   width: 30%;
 }
 
